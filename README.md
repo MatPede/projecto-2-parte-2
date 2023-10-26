@@ -1,5 +1,3 @@
-**Nombres de integrantes del grupo:** (ingresar aquí)
-
 # Enunciado Proyecto 2.2
 
 El Proyecto 2.2 se centra en la implementación de tres aspectos fundamentales en la aplicación móvil PichangApp: Georeferenciación, Imágenes y Social Media. Estos componentes son esenciales para enriquecer la experiencia de los usuarios al crear y administrar partidos de fútbol informales. Se espera que este proyecto sea una extensión natural del trabajo previo, permitiendo la incorporación de estas nuevas funcionalidades en el repositorio existente de la aplicación, que ha sido desarrollada con React Native y Expo. El objetivo principal es lograr una integración eficiente y efectiva de estas características en la aplicación móvil existente.
