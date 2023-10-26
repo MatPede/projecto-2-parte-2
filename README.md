@@ -80,7 +80,7 @@ Estos son los endpoints actuales de la API que deben ser gestionados:
 ## Modo de trabajo y próximas evaluaciones
 
 La tarea deberá ser entregada por cada grupo a su repositorio Git hasta el viernes 6 de noviembre de 2023 a las 23:59 hrs.
-La entrega 2.3 consistirá en completar la funcionalidad que haya quedado faltante en el presente enunciado, y la fecha de entrega será 15 de noviembre de 2023.
+La entrega 2.3 consistirá en completar la funcionalidad que haya quedado faltante en el presente enunciado, y la fecha de entrega será 15 de noviembre de 2023 hasta las 23:59, en el mismo repositorio Git.
 
 Las demostraciones finales del proyecto 2 serán agendadas durante la semana del 20/11.
 
