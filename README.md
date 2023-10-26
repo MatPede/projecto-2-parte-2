@@ -79,6 +79,13 @@ Estos son los endpoints actuales de la API que deben ser gestionados:
         - - **Parámetros:**
           - `google_token`: String
 
-## Indicaciones Generales
+## Modo de trabajo y próximas evaluaciones
 
-En esta sección, lo ideal es que se indique cualquier punto de importancia para que su proyecto pueda ser evaluado sin grandes problemas.
+La tarea deberá ser entregada por cada grupo a su repositorio Git hasta el viernes 6 de noviembre de 2023 a las 23:59 hrs.
+La entrega 2.3 consistirá en completar la funcionalidad que haya quedado faltante en el presente enunciado, y la fecha de entrega será 15 de noviembre de 2023.
+
+Las demostraciones finales del proyecto 2 serán agendadas durante la semana del 20/11.
+
+## Indicaciones a los ayudantes
+
+Añadir a esta sección indicaciones que puedan facilitar a los ayudantes la evaluación de la tarea.
