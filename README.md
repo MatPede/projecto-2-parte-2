@@ -75,6 +75,9 @@ Estos son los endpoints actuales de la API que deben ser gestionados:
 5. **Usuarios**
     - **Endpoint:** 
         - `GET https://pichang-app-e6269910e1a5.herokuapp.com/api/v1/users` (Para obtener detalles de usuarios)
+        - `POST https://pichang-app-e6269910e1a5.herokuapp.com/api/v1/google` (Para login con google)
+        - - **Parámetros:**
+          - `google_token`: String
 
 ## Indicaciones Generales
 
