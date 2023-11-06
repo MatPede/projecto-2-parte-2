@@ -86,4 +86,4 @@ Las demostraciones finales del proyecto 2 serán agendadas durante la semana del
 
 ## Indicaciones a los ayudantes
 
-Añadir a esta sección indicaciones que puedan facilitar a los ayudantes la evaluación de la tarea.
+La parte de home donde se muestra el mapa no se puede actuallizar bien, para lograrlo hay que apretar la flecha de arriba para ir atras, lo que redirigia al menu de login y posterior a eso se debe apretar de vuelta iniciar sesion, los datos de inicio estaran guardados, pero esto es tanto para que aparezca el mapa por primera vez como cuando hay cambios en las pichangs crearlas, editarlas o eliminarlas
